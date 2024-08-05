@@ -32,6 +32,7 @@ Haverá apenas a necessidade da instalação dos _packages_:
 * [`face_recognition`](https://pypi.org/project/face-recognition/): Também é uma biblioteca _open source_ que faz todo o "trabalho" de reconhecer as faces, e;
 * [`numpy`](https://pypi.org/project/numpy/): Usado para manipular dados.
 * [`dlib`](https://pypi.org/project/dlib/): É um biblioteca feita em C++, é complicado de instalar no computador. Daí o motivo da seção 1.1. Preparativos.
+* [`re`](https://pypi.org/project/regex/): O regex será usado para extrair informações diretamente do nome do arquivo de imagem.
 
 ### 1.3. _Environment_
 
